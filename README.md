@@ -4,4 +4,4 @@ All is about interaction between an agent and an environment!
 That is used for unknown environments and uses action value function to behave well.
 This is an off-policy algorithm.
 
-Have fun!
+Have a nice day!
