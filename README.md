@@ -5,3 +5,6 @@ That is used for unknown environments and uses action value function to behave w
 This is an off-policy algorithm.
 
 Have a nice day!
+
+##SARSA
+This is an on-policy method and updates value function based on the behavior policy.
